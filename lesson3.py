@@ -4,6 +4,6 @@ name = input('What is your name?: ')
 print('Hi,', name, '!')
 age = int(input('How old are you? '))
 if age > 20:
-    print('Old bitch!')
+    print('Old one!')
 else:
-    print('Little bitch!')
+    print('Little one!')
