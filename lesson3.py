@@ -7,3 +7,4 @@ if age > 20:
     print('Old one!')
 else:
     print('Little one!')
+print('Bye bye, motherfucker!')
