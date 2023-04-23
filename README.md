@@ -4,3 +4,4 @@ This text should be in every branch
 я могу написать всякую хуйню
 testing commands git revert and revert --no-commit
 trying to push changes from IDE
+trying to pull changes from IDE
